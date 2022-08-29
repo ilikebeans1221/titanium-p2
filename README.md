@@ -19,7 +19,7 @@ run "screen npm start" and the site is live.
 
 visit http://DOMAIN.COM:8080/ to view your site (NPM runs on 8080 by default, you can fix this with iptables if you wish)
 
-For more information on Alloy Proxy. Please visit https://github.com/titaniumnetwork-dev/alloyproxy/blob/master/README.md
+For more information on Alloy Proxy. Please visit https://github.com/ilikebeans1221/alloyproxy/blob/master/README.md
 
 # Customize this site as your own!
 Maintainers will need to check all pages of this website and remove the following (not limited to this list) words, and replace them with their own terms:
